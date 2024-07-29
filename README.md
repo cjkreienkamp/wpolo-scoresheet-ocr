@@ -1,5 +1,9 @@
 # wpolo-scoresheet-ocr
 
+
+
+### Title
+
 Water Polo Scoresheet Reader and Data Organizer Using Optical Character Recognition (OCR)<br/>
 Sapienza Università di Roma<br/>
 Computer Vision 2024
