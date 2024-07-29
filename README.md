@@ -5,9 +5,9 @@ Takes as input a scoresheet from a water polo game and outputs a file that lists
 
 ### Title and Author Information
 
-Water Polo Scoresheet Reader and Data Organizer Using Optical Character Recognition (OCR)
-Sapienza Università di Roma
-Computer Vision 2024
+Water Polo Scoresheet Reader and Data Organizer Using Optical Character Recognition (OCR)\n
+Sapienza Università di Roma\n
+Computer Vision 2024\n
 Christopher Kreienkamp
 
 
@@ -29,7 +29,7 @@ What is the meaning or impact of your research?
 
 During a water polo game, there is a set of people, designated as the table, that manages the clock, updates the scoreboard with scores and penalties, keeps an official scoresheet, and carries out a few other administrative tasks. The scoresheet is the official record of the game. It includes information about the time and location of the game, the rosters for both teams, and a running record of the time of every major event, including the timestamp and player/team involved for every goal, exclusion, penalty, and timeout. An example can be seen below.
 
-![alt text]([http://url/to/img.png](https://github.com/cjkreienkamp/wpolo-scoresheet-ocr/blob/f4ee7a54a98551f87a549c90c5a0e48c69ce9ae1/assets/scoresheet.jpeg))
+![alt text](assets/scoresheets.jpeg)
 
 At the end of the game, both coaches and the referees must sign the scoresheet to validate its accuracy, and this scoresheet will be transferred to the governing league. When possible, a copy will be given to either coach. Often, especially in leagues with less funding, these scoresheets will be forgotten. In more official leagues, someone will manually type in the data from this sheet so that the league can publish the statistics for every player. The manual input of data is time consuming and tedious, and if done by a coach, takes away time that the coach could be using to analyze previous matches or develop team strategy.
 
@@ -47,10 +47,10 @@ Therefore it would be beneficial to the sport if a computer vision system could 
 
 ### Methods:
 
-## Results:
+### Results:
 
-# Discussion:
+### Discussion:
 
-## Conclusion:
+### Conclusion:
 
 ### References and Appendices:
