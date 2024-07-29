@@ -3,7 +3,7 @@ Takes as input a scoresheet from a water polo game and outputs a file that lists
 
 
 
-### Title and Author Information
+### Title
 
 Water Polo Scoresheet Reader and Data Organizer Using Optical Character Recognition (OCR)<br/>
 Sapienza Università di Roma<br/>
