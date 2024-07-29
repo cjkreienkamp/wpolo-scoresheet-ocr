@@ -24,7 +24,7 @@ During a water polo game, there is a set of people, designated as the table, tha
   <img src="assets/scoresheet.jpeg" width="500">
 </p>
 At the end of the game, both coaches and the referees must sign the scoresheet to validate its accuracy, and this scoresheet will be transferred to the governing league. When possible, a copy will be given to either coach. Often, especially in leagues with less funding, these scoresheets will be forgotten. In more official leagues, someone will manually type in the data from this sheet so that the league can publish the statistics for every player. The manual input of data is time consuming and tedious, and if done by a coach, takes away time that the coach could be using to analyze previous matches or develop team strategy.
-
+<br/>
 Therefore it would be beneficial to the sport if a computer vision system could be created so that a coach or league administrator could take a picture of a scoresheet with a smartphone, and the system could automatically read in the data, organize it, and post it to a website to be available to everyone in the league.
 
 
