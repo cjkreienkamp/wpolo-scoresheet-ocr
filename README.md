@@ -36,7 +36,7 @@ Therefore it would be beneficial to the sport if a computer vision system could 
 
 
 
-### Methods
+### Dataset
 - [Roboflow Dataset - TEAM](https://app.roboflow.com/chris-kreienkamp/water-polo-gamelog-team/3)
 - [Roboflow Dataset - REMARKS](https://universe.roboflow.com/chris-kreienkamp/water-polo-gamelog-remarks/dataset/2)
 - [PyTorch Dataset - MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
