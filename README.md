@@ -33,16 +33,10 @@ Therefore it would be beneficial to the sport if a computer vision system could 
 
 - [OpenCV](https://opencv.org/)
 - [Tesseract](https://github.com/tesseract-ocr/tesseract)
-- [Credit card OCR with OpenCV and Python](https://pyimagesearch.com/2017/07/17/credit-card-ocr-with-opencv-and-python/)
 
 
 
 ### Methods
-
-### Results
-
-### Discussion
-
-### Conclusion
-
-### References and Appendices
+- [Roboflow Dataset - TEAM](https://app.roboflow.com/chris-kreienkamp/water-polo-gamelog-team/3)
+- [Roboflow Dataset - REMARKS](https://universe.roboflow.com/chris-kreienkamp/water-polo-gamelog-remarks/dataset/2)
+- [PyTorch Dataset - MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
